@@ -1,2 +1,4 @@
 # hello-world
-My first repository
+
+Nate is learning to use Git.
+Exciting!
